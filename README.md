@@ -1,3 +1,3 @@
 # rsschool-cv
 ### Readme file 
-<p>Task #1</p>
+<p>Visit my <a href="/rsschool-cv/cv">CV</a>.</p>
