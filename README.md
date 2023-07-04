@@ -1,4 +1,7 @@
 # rsschool-cv
-### Readme file 
-#### Tasks:
-<p>CV#1. Markdown & Git</p> 
+
+## Readme file
+
+### Tasks
+
+CV#1. Markdown & Git.
