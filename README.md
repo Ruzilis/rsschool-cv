@@ -4,4 +4,5 @@
 
 ### Tasks
 
-CV#1. Markdown & Git.
+1. CV#1. Markdown & Git
+2. CV#2. HTML, CSS & Git Basics
