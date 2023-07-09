@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Open_Sans';
+    src: url("assets/fonts/OpenSans-Light.ttf");
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'Open_Sans';
+    src: url("assets/fonts/OpenSans-Regular.ttf");
+    font-weight: 300;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
