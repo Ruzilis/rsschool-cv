@@ -154,6 +154,10 @@ img {
     padding: 50px;
 }
 
+.section p{
+    padding: 50px;
+}
+
 @media (max-width: 768px) {
     .section {
       width: 100%;
