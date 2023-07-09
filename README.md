@@ -2,4 +2,5 @@
 
 ## Readme file
 
-Visit my [CV](https://ruzilis.github.io/rsschool-cv/cv).
+New branch new experience!
+My nextgen [CV](https://ruzilis.github.io/rsschool-cv/)
