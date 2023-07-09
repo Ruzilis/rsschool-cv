@@ -6,8 +6,8 @@
 
 ### Contact information
 
-- +995 597921530
-- email: <iskhakovruzil@gmail.com>
+- +995 527725530
+- email: <asdaas@gmail.com>
 - discord: Octava#5292
 - [LinkedIn](https://www.linkedin.com/in/ruzilis/)
 
@@ -40,7 +40,6 @@ I am junior Front-end developer. I worked as a QA tester in a game development s
 ### Projects
 
 - My [CV](https://ruzilis.github.io/rsschool-cv/cv)
-- Website of the gamedev studio [Fararu Games](https://fararugames.ru)
 
 ### Courses
 
